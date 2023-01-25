@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Maximus Liggett and I am a computer science student at the University of Kentucky.
+I am currently working on an ios app in swift and a machiene learning application in C++.
 <!--
 **Mjli235/Mjli235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
